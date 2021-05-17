@@ -1,6 +1,8 @@
 # Reddit-Clone
 
-In this application I have simply created the posts FUNCTIONALIT  with login and Register functionality using cache maintain for users login by using the redis and for the database it's PostgresSQL.
+In this application I have simply created the posts functionality  with login and Register functionality using cache maintain for users login by using the redis and for the database it's PostgresSQL.
+
+Application uses server side rendering on some pages and on  simple client side rendering.
 
 Application is in Progress State  sample has been prepared  other parts has yet to be covered.
 
