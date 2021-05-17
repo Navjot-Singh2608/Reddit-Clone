@@ -1,0 +1,11 @@
+node_modules
+.history
+reddit-server/node_modules
+reddit-server/.env
+reddit-server/dist
+reddit-client/node_modules
+reddit-client/node_modules
+reddit-client/.env.local
+reddit-client/.env.development.local
+reddit-client/.env.test.local
+reddit-client/.env.production.local

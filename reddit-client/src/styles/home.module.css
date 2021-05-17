@@ -1,0 +1,16 @@
+.readMore {
+  color: dodgerblue;
+  background-color: transparent !important;
+  width: 100%;
+  padding: 22px;
+  background-image: linear-gradient(transparent, #eee);
+  cursor: pointer;
+}
+.createpost {
+  border: 1px solid #eee;
+  border-radius: 8px;
+  color: green;
+  font-weight: 600;
+  outline: none;
+  border-style: none;
+}

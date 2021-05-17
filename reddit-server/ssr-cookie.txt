@@ -1,0 +1,5 @@
+// ssr (server side rendering working)
+   browser->next.js-> graphql api
+
+// client side rendering work
+  browser-> graphql api
